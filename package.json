@@ -1,0 +1,23 @@
+{
+  "name": "ajs1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node src/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IvanSergeev1/ajs1.git"
+  },
+  "author": "ivansergeev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IvanSergeev1/ajs1/issues"
+  },
+  "homepage": "https://github.com/IvanSergeev1/ajs1#readme",
+  "dependencies": {
+    "@ivansergeev1/ajs": "^1.0.0"
+  }
+}
